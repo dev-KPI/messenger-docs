@@ -2,7 +2,7 @@
 
 - [For Developers](#for-developers)
   - [Repositories](#repositories)
-  - [Technical stack](#technical-stack)
+  - [Tech Stack](#tech-stack)
   - [Design](#design)
   - [Storage](#storage)
 
@@ -11,10 +11,10 @@
 - [Frontend](https://github.com/dev-KPI/messenger-frontend)
 - [Mobile](https://github.com/dev-KPI/golub-mobile)
   
-## Technical stack
-- Node
+## Tech Stack
+- Node.js
 - Metarhia
-- Postgres
+- PostgreSQL
 - React
   
 ## Design
