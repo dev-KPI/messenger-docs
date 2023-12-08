@@ -1,6 +1,6 @@
-# FOR USERS
+# For Users
 
-- [FOR USERS](#for-users)
+- [For Users](#for-users)
   - [Description](#description)
 
 ## Description
